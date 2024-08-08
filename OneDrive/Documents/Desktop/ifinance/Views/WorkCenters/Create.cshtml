@@ -1,0 +1,12 @@
+﻿@model S5G11_PVFAPP.Models.WorkCenter
+
+<h1>Create WorkCenter</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="WorkCenterName"></label>
+        <input asp-for="WorkCenterName" class="form-control" />
+        <span asp-validation-for="WorkCenterName" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

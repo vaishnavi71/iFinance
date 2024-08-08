@@ -1,0 +1,25 @@
+﻿@model S5G11_PVFAPP.Models.SalesPerson
+
+<h2>Edit Sales Person</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="SalesPersonID" class="control-label"></label>
+        <input asp-for="SalesPersonID" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="SalesPersonName" class="control-label"></label>
+        <input asp-for="SalesPersonName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SalesPersonTelephone" class="control-label"></label>
+        <input asp-for="SalesPersonTelephone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="SalesPersonFax" class="control-label"></label>
+        <input asp-for="SalesPersonFax" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

@@ -1,0 +1,22 @@
+﻿@model S5G11_PVFAPP.Models.SalesPerson
+
+<h1>Create Sales Person</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="SalesPersonName"></label>
+        <input asp-for="SalesPersonName" class="form-control" />
+        <span asp-validation-for="SalesPersonName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SalesPersonTelephone"></label>
+        <input asp-for="SalesPersonTelephone" class="form-control" />
+        <span asp-validation-for="SalesPersonTelephone" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="SalesPersonFax"></label>
+        <input asp-for="SalesPersonFax" class="form-control" />
+        <span asp-validation-for="SalesPersonFax" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

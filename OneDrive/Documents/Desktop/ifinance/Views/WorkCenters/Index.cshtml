@@ -1,0 +1,26 @@
+﻿@model List<WorkCenter>
+ 
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.WorkCenterId</td>
+                <td>@obj.WorkCenterName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@obj.WorkCenterId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@obj.WorkCenterId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+ 
+<a asp-action="Create">Create</a>

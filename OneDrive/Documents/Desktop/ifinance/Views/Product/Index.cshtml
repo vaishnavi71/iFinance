@@ -1,0 +1,30 @@
+﻿@model List<Product>
+ 
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Decsription</th>
+            <th>Price</th>
+            <th>Finish</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.ProductID</td>
+                <td>@obj.ProductDescription</td>
+                <td>@obj.ProductStandardPrice</td>
+                <td>@obj.ProductFinish</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@obj.ProductID">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@obj.ProductID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+ 
+<a asp-action="Create">Create</a>

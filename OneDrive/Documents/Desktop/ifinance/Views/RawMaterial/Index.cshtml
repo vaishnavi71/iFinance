@@ -1,0 +1,30 @@
+﻿@model List<RawMaterial>
+ 
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Cost</th>
+            <th>Unit of Measure</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var obj in Model)
+        {
+            <tr>
+                <td>@obj.MaterialID</td>
+                <td>@obj.MaterialName</td>
+                <td>@obj.MaterialStandardCost</td>
+                <td>@obj.UnitOfMeasure</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@obj.MaterialID">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@obj.MaterialID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+ 
+<a asp-action="Create">Create</a>

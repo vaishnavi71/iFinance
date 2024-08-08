@@ -1,0 +1,17 @@
+﻿@model S5G11_PVFAPP.Models.WorkCenter
+
+<h2>Edit WorkCenter</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="WorkCenterId" class="control-label"></label>
+        <input asp-for="WorkCenterId" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="WorkCenterName" class="control-label"></label>
+        <input asp-for="WorkCenterName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

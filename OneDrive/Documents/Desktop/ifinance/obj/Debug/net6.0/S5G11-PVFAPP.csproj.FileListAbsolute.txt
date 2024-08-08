@@ -1,0 +1,264 @@
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.AssemblyReference.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfoInputs.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfo.cs
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cs
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.staticwebassets.runtime.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.exe
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.deps.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.runtimeconfig.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.S5G11-PVFAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\bundle\S5G11-PVFAPP.styles.css
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\projectbundle\S5G11-PVFAPP.bundle.scp.css
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CopyComplete
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\refint\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.genruntimeconfig.cache
+C:\Users\ACS\Desktop\S5G11-PVFAPP\obj\Debug\net6.0\ref\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ACS\Desktop\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.staticwebassets.runtime.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.exe
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.deps.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.runtimeconfig.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.AssemblyReference.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfoInputs.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfo.cs
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CoreCompileInputs.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cs
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.S5G11-PVFAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S5G11-PVFAPP.props
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\bundle\S5G11-PVFAPP.styles.css
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\projectbundle\S5G11-PVFAPP.bundle.scp.css
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CopyComplete
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\refint\S5G11-PVFAPP.dll
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.genruntimeconfig.cache
+C:\Users\ACS\Desktop\oldVS\S5G11-PVFAPP\obj\Debug\net6.0\ref\S5G11-PVFAPP.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\appsettings.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.staticwebassets.runtime.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.exe
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.deps.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.runtimeconfig.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.AssemblyReference.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfoInputs.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.AssemblyInfo.cs
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CoreCompileInputs.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.RazorAssemblyInfo.cs
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.S5G11-PVFAPP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.build.S5G11-PVFAPP.props
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.S5G11-PVFAPP.props
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.S5G11-PVFAPP.props
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\bundle\S5G11-PVFAPP.styles.css
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\scopedcss\projectbundle\S5G11-PVFAPP.bundle.scp.css
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.csproj.CopyComplete
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\refint\S5G11-PVFAPP.dll
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.pdb
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\S5G11-PVFAPP.genruntimeconfig.cache
+C:\Users\Cha Cha Tech\Downloads\S5G11-PVFAPP\obj\Debug\net6.0\ref\S5G11-PVFAPP.dll

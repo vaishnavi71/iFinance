@@ -1,0 +1,37 @@
+﻿@model S5G11_PVFAPP.Models.Order
+
+<h2>Delete</h2>
+
+<div>
+    <h4>Order</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.OrderDate)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.OrderDate)
+        </dd> 
+       @* <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.CustomerId)
+        </dt>*@
+        @*<dd class="col-sm-10">
+            @{
+                var customers = (List<Customer>)ViewBag.Customers;
+                var customer = customers.Find(c => c.CustomerId == Model.CustomerId);
+            }
+            @if (customer != null)
+            {
+                @Html.DisplayFor(model => customer.CustomerName)
+            }
+        </dd>*@
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="OrderID" />
+        <div class="form-actions">
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </form>
+</div>

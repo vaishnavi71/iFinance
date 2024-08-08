@@ -1,0 +1,25 @@
+﻿@model S5G11_PVFAPP.Models.Customer
+
+<h2>Edit Customer</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="CustomerId" class="control-label"></label>
+        <input asp-for="CustomerId" class="form-control" readonly />
+    </div>
+    <div class="form-group">
+        <label asp-for="CustomerName" class="control-label"></label>
+        <input asp-for="CustomerName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CustomerAddress" class="control-label"></label>
+        <input asp-for="CustomerAddress" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="CutomerPostalCode" class="control-label"></label>
+        <input asp-for="CutomerPostalCode" class="form-control" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save" class="btn btn-primary" />
+    </div>
+</form>

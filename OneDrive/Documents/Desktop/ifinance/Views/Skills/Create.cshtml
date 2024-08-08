@@ -1,0 +1,12 @@
+﻿@model S5G11_PVFAPP.Models.Skills
+
+<h1>Create Skills</h1>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label asp-for="SkillDescr"></label>
+        <input asp-for="SkillDescr" class="form-control" />
+        <span asp-validation-for="SkillDescr" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

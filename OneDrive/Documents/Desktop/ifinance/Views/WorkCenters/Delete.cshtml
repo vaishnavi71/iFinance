@@ -1,0 +1,23 @@
+﻿@model S5G11_PVFAPP.Models.WorkCenter
+
+<h2>Delete WorkCenter</h2>
+
+<div>
+    <h4>Are you sure you want to delete this work center?</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.WorkCenterName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WorkCenterName)
+        </dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="WorkCenterId" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
